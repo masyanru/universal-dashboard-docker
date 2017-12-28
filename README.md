@@ -9,6 +9,8 @@ Windows Server Core 1709
 
 Copy all files to your folder for example c:\container
 
+You should already have the license file - License.lic
+
 cd c:\container
 
 docker build -t poshdash .
